@@ -1,0 +1,15 @@
+#coockie{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    z-index: 1;
+}
+
+#clicker {
+    background: orange;
+    width: 500px;
+    height: 100px;
+    float:right;
+    z-index: 2;
+}
